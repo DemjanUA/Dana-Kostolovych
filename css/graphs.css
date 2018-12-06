@@ -1,0 +1,14 @@
+.main-page ul {
+    text-align: center;
+}
+
+.main-page ul li {
+    margin-bottom: 60px;
+}
+
+.main-page ul li h4 {
+    font-weight: 400;
+    font-size: 32px;
+    font-weight: 300;
+    margin-bottom: .8em;
+}
